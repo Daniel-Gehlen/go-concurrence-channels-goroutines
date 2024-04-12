@@ -1,4 +1,4 @@
-#nGo Program with Concurrency for "Ping-Pong"
+# Go Program with Concurrency for "Ping-Pong"
 
 The following Go program demonstrates the use of concurrency, channels, and goroutines to alternately display the words "ping" and "pong":
 
